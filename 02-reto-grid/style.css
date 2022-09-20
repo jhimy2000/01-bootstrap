@@ -1,0 +1,10 @@
+.container
+{
+    margin-top: 50px;
+}
+.col
+{
+    background: red;
+    border: 1px solid white;
+    height: 100px;
+}
